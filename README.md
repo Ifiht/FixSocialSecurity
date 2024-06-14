@@ -3,7 +3,7 @@ If you read the reports, it seems like the doom date for social security is alwa
 
 ![Social Security Time's Up Chart](resources/runout_ssa.PNG)
 
-Rate of Depletion: `1.4yrs/yr`  
+Average Rate of Depletion: `1.4yrs/yr`  
 Date of Depletion if all trends continue: `2032`
 
 ## References
